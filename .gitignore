@@ -1,0 +1,32 @@
+# Build outputs
+build/
+cmake-build-*/
+out/
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.a
+*.lib
+*.so
+*.dylib
+
+# IDE / editor
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Coverage / profiling
+*.gcda
+*.gcno
+*.profraw
+gmon.out
+
+# Archives and coursework bundles
+*.zip
+*.rar
+*.7z
