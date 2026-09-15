@@ -1,5 +1,10 @@
 # Data Structures Labs in C++
 
+[![Type](https://img.shields.io/badge/Type-Coursework_Rebuild-2563eb?style=for-the-badge)](#)
+[![Tech](https://img.shields.io/badge/Tech-C%2B%2B17-7c3aed?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
+
+
 [简体中文](README.zh-CN.md)
 
 A revisited collection of classic Data Structures coursework implementations, covering stacks, queues, trees, Huffman coding, graphs, traversal algorithms, and sorting.
