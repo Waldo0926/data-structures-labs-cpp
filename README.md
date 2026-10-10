@@ -119,7 +119,7 @@ See [Modernisation Notes](docs/modernisation-notes.md) for concrete issues found
 
 The larger Binary Search Tree coursework project was modernised separately as a complete record-management application:
 
-**[BST Record Management System — Modern C++](https://github.com/Waldo0926/bst-record-management-cpp)**
+**[BST Record Management System (Modern C++)](https://github.com/Waldo0926/bst-record-management-cpp)**
 
 It demonstrates a more complete application built around Binary Search Tree operations, including insertion, search, update, deletion, persistence, testing, and modern C++ memory management.
 
