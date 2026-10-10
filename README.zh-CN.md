@@ -5,7 +5,7 @@
 [![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-16a34a?style=for-the-badge)](LICENSE)
 
 
-[English](README.md)
+[English](README.md) · **中文**
 
 这是对早期《数据结构》课程实验进行重新整理后的项目，涵盖栈、队列、树、哈夫曼编码、图、图遍历算法以及排序算法。
 
@@ -119,7 +119,7 @@ Postorder: FDBECA
 
 课程中规模更大的 Binary Search Tree 课程设计被单独整理并现代化为一个完整的信息管理应用：
 
-**[BST Record Management System — Modern C++](https://github.com/Waldo0926/bst-record-management-cpp)**
+**[BST 教师信息管理系统（现代 C++）](https://github.com/Waldo0926/bst-record-management-cpp)**
 
 该项目进一步展示了围绕二叉搜索树构建完整应用的过程，包括插入、查询、修改、删除、持久化、测试以及现代 C++ 内存管理。
 
